@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://teste-de-ts/./build-babel/index.js"],"names":["alert"],"mappings":"mBAEAA,MAAM,Q","file":"bundle.js","sourcesContent":["\"use strict\";\n\nalert(\"opa\");\n//# sourceMappingURL=index.js.map"],"sourceRoot":""}
