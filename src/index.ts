@@ -1,1 +1,3 @@
-alert("opa")
+let opa: string = "opa";
+
+alert(opa);
